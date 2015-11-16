@@ -1,0 +1,864 @@
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197801.nc
+		:history = "model started at: 22/12/2011   16:41" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197802.nc
+		:history = "model started at: 23/12/2011   10:04" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197803.nc
+		:history = "model started at: 22/12/2011   10:08" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197804.nc
+		:history = "model started at: 14/02/2011   02:27" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197805.nc
+		:history = "model started at: 03/01/2012   09:53" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197806.nc
+		:history = "model started at: 22/12/2011   15:26" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197807.nc
+		:history = "model started at: 03/01/2012   14:35" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197808.nc
+		:history = "model started at: 20/02/2011   10:38" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197809.nc
+		:history = "model started at: 22/02/2011   14:44" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197810.nc
+		:history = "model started at: 23/02/2011   23:46" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197811.nc
+		:history = "model started at: 25/02/2011   16:05" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197812.nc
+		:history = "model started at: 27/02/2011   08:35" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197901.nc
+		:history = "model started at: 04/01/2012   17:10" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197902.nc
+		:history = "model started at: 05/01/2012   15:46" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197903.nc
+		:history = "model started at: 06/01/2012   14:05" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197904.nc
+		:history = "model started at: 07/01/2012   19:32" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197905.nc
+		:history = "model started at: 08/01/2012   23:46" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197906.nc
+		:history = "model started at: 10/01/2012   03:29" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197907.nc
+		:history = "model started at: 20/03/2011   00:53" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197908.nc
+		:history = "model started at: 24/03/2011   10:16" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197909.nc
+		:history = "model started at: 30/03/2011   10:57" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197910.nc
+		:history = "model started at: 01/04/2011   10:52" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197911.nc
+		:history = "model started at: 06/04/2011   05:00" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_197912.nc
+			"model started at: 09/04/2011   12:47" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198001.nc
+		:history = "model started at: 12/04/2011   19:38" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198002.nc
+		:history = "model started at: 09/01/2012   11:10" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198003.nc
+			"model started at: 22/04/2011   16:52" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198004.nc
+		:history = "model started at: 27/04/2011   09:11" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198005.nc
+		:history = "model started at: 01/05/2011   10:23" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198006.nc
+		:history = "model started at: 04/05/2011   02:16" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198007.nc
+		:history = "model started at: 06/05/2011   15:56" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198008.nc
+		:history = "model started at: 08/05/2011   20:13" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198009.nc
+		:history = "model started at: 13/05/2011   00:07" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198010.nc
+		:history = "model started at: 15/05/2011   21:49" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198011.nc
+		:history = "model started at: 19/05/2011   09:16" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198012.nc
+		:history = "model started at: 21/05/2011   21:34" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198101.nc
+		:history = "model started at: 24/05/2011   13:09" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198102.nc
+		:history = "model started at: 26/05/2011   10:28" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198103.nc
+		:history = "model started at: 27/05/2011   14:56" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198104.nc
+		:history = "model started at: 30/05/2011   16:09" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198105.nc
+		:history = "model started at: 02/06/2011   05:28" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198106.nc
+		:history = "model started at: 04/06/2011   12:29" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198107.nc
+		:history = "model started at: 06/06/2011   12:24" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198108.nc
+		:history = "model started at: 08/06/2011   10:16" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198109.nc
+		:history = "model started at: 13/06/2011   17:24" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198110.nc
+		:history = "model started at: 12/06/2011   15:14" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198111.nc
+		:history = "model started at: 16/06/2011   09:39" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198112.nc
+		:history = "model started at: 19/06/2011   09:32" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198201.nc
+		:history = "model started at: 20/06/2011   16:09" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198202.nc
+		:history = "model started at: 21/06/2011   20:22" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198203.nc
+		:history = "model started at: 23/06/2011   09:16" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198204.nc
+		:history = "model started at: 26/06/2011   16:49" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198205.nc
+		:history = "model started at: 29/06/2011   18:35" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198206.nc
+		:history = "model started at: 02/07/2011   08:56" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198207.nc
+		:history = "model started at: 06/07/2011   09:25" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198208.nc
+		:history = "model started at: 08/07/2011   16:19" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198209.nc
+		:history = "model started at: 18/07/2011   17:25" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198210.nc
+		:history = "model started at: 21/07/2011   09:47" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198211.nc
+		:history = "model started at: 25/07/2011   09:29" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198212.nc
+		:history = "model started at: 27/07/2011   09:40" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198301.nc
+		:history = "model started at: 01/08/2011   09:19" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198302.nc
+		:history = "model started at: 03/08/2011   09:13" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198303.nc
+		:history = "model started at: 04/08/2011   14:54" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198304.nc
+		:history = "model started at: 08/08/2011   15:48" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198305.nc
+		:history = "model started at: 11/08/2011   11:11" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198306.nc
+		:history = "model started at: 13/08/2011   05:04" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198307.nc
+		:history = "model started at: 15/08/2011   22:11" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198308.nc
+		:history = "model started at: 17/08/2011   12:19" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198309.nc
+		:history = "model started at: 21/08/2011   22:39" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198310.nc
+		:history = "model started at: 25/08/2011   17:00" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198311.nc
+			"model started at: 01/09/2011   16:14" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198312.nc
+		:history = "model started at: 04/09/2011   19:06" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198401.nc
+		:history = "model started at: 07/09/2011   13:56" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198402.nc
+		:history = "model started at: 09/09/2011   12:26" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198403.nc
+		:history = "model started at: 11/09/2011   01:13" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198404.nc
+		:history = "model started at: 13/09/2011   20:37" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198405.nc
+		:history = "model started at: 13/12/2011   10:54" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198406.nc
+		:history = "model started at: 17/09/2011   20:50" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198407.nc
+		:history = "model started at: 13/12/2011   11:12" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198408.nc
+		:history = "model started at: 21/09/2011   21:00" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198409.nc
+		:history = "model started at: 14/12/2011   09:52" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198410.nc
+		:history = "model started at: 27/09/2011   10:44" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198411.nc
+		:history = "model started at: 28/09/2011   05:15" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198412.nc
+		:history = "model started at: 29/09/2011   09:22" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198501.nc
+		:history = "model started at: 30/09/2011   13:26" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198502.nc
+		:history = "model started at: 03/10/2011   09:20" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198503.nc
+		:history = "model started at: 03/10/2011   20:31" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198504.nc
+		:history = "model started at: 04/10/2011   08:10" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198505.nc
+		:history = "model started at: 16/12/2011   12:33" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198506.nc
+		:history = "model started at: 16/12/2011   12:26" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198507.nc
+		:history = "model started at: 06/10/2011   03:23" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198508.nc
+		:history = "model started at: 07/10/2011   12:29" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198509.nc
+		:history = "model started at: 16/12/2011   12:40" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198510.nc
+			"model started at: 11/10/2011   09:58" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198511.nc
+		:history = "model started at: 19/12/2011   09:42" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198512.nc
+		:history = "model started at: 15/10/2011   03:57" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198601.nc
+		:history = "model started at: 16/10/2011   21:30" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198602.nc
+		:history = "model started at: 16/12/2011   12:11" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198603.nc
+		:history = "model started at: 17/10/2011   21:26" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198604.nc
+		:history = "model started at: 18/10/2011   09:58" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198605.nc
+		:history = "model started at: 19/10/2011   09:54" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198606.nc
+		:history = "model started at: 20/10/2011   09:36" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198607.nc
+		:history = "model started at: 20/10/2011   22:26" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198608.nc
+		:history = "model started at: 19/12/2011   09:52" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198609.nc
+		:history = "model started at: 22/10/2011   03:10" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198610.nc
+		:history = "model started at: 22/10/2011   15:19" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198611.nc
+		:history = "model started at: 19/12/2011   09:59" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198612.nc
+		:history = "model started at: 24/10/2011   15:19" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198701.nc
+		:history = "model started at: 27/10/2011   09:41" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198702.nc
+		:history = "model started at: 20/12/2011   09:48" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198703.nc
+		:history = "model started at: 28/10/2011   16:42" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198704.nc
+		:history = "model started at: 12/12/2011   16:44" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198705.nc
+		:history = "model started at: 30/10/2011   12:03" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198706.nc
+		:history = "model started at: 19/12/2011   10:11" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198707.nc
+		:history = "model started at: 20/12/2011   09:33" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198708.nc
+		:history = "model started at: 21/12/2011   05:06" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198709.nc
+		:history = "model started at: 03/11/2011   09:39" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198710.nc
+		:history = "model started at: 03/11/2011   23:59" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198711.nc
+		:history = "model started at: 04/11/2011   10:53" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198712.nc
+		:history = "model started at: 07/11/2011   21:38" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198801.nc
+		:history = "model started at: 08/11/2011   10:53" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198802.nc
+		:history = "model started at: 08/11/2011   21:18" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198803.nc
+		:history = "model started at: 09/11/2011   05:23" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198804.nc
+		:history = "model started at: 09/11/2011   20:14" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198805.nc
+		:history = "model started at: 10/11/2011   05:47" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198806.nc
+		:history = "model started at: 10/11/2011   14:04" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198807.nc
+		:history = "model started at: 14/11/2011   09:37" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198808.nc
+		:history = "model started at: 15/11/2011   02:02" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198809.nc
+		:history = "model started at: 15/11/2011   11:05" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198810.nc
+		:history = "model started at: 15/11/2011   19:34" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198811.nc
+		:history = "model started at: 16/11/2011   14:02" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198812.nc
+		:history = "model started at: 18/11/2011   13:41" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198901.nc
+		:history = "model started at: 21/11/2011   13:34" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198902.nc
+		:history = "model started at: 21/11/2011   22:15" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198903.nc
+		:history = "model started at: 22/11/2011   04:10" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198904.nc
+		:history = "model started at: 22/11/2011   11:13" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198905.nc
+		:history = "model started at: 20/12/2011   10:01" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198906.nc
+		:history = "model started at: 23/11/2011   09:39" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198907.nc
+		:history = "model started at: 23/11/2011   21:02" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198908.nc
+		:history = "model started at: 24/11/2011   02:56" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198909.nc
+		:history = "model started at: 24/11/2011   11:27" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198910.nc
+		:history = "model started at: 24/11/2011   17:02" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198911.nc
+		:history = "model started at: 25/11/2011   00:28" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_198912.nc
+		:history = "model started at: 25/11/2011   10:38" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199001.nc
+		:history = "model started at: 28/11/2011   11:01" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199002.nc
+		:history = "model started at: 28/11/2011   23:39" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199003.nc
+		:history = "model started at: 29/11/2011   09:50" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199004.nc
+		:history = "model started at: 29/11/2011   22:56" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199005.nc
+			"model started at: 30/11/2011   10:46" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199006.nc
+			"model started at: 05/12/2011   10:32" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199007.nc
+		:history = "model started at: 23/12/2011   12:36" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199008.nc
+		:history = "model started at: 24/12/2011   06:13" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199009.nc
+		:history = "model started at: 25/12/2011   11:02" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199010.nc
+		:history = "model started at: 25/12/2011   22:02" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199011.nc
+		:history = "model started at: 26/12/2011   14:10" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199012.nc
+		:history = "model started at: 27/12/2011   05:10" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199101.nc
+		:history = "model started at: 27/12/2011   21:02" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199102.nc
+		:history = "model started at: 28/12/2011   09:33" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199103.nc
+		:history = "model started at: 30/12/2011   11:32" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199104.nc
+		:history = "model started at: 31/12/2011   06:43" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199105.nc
+		:history = "model started at: 31/12/2011   23:44" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199106.nc
+		:history = "model started at: 01/01/2012   14:53" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199107.nc
+		:history = "model started at: 03/01/2012   10:27" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199108.nc
+		:history = "model started at: 04/01/2012   02:58" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199109.nc
+		:history = "model started at: 04/01/2012   20:13" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199110.nc
+		:history = "model started at: 05/01/2012   11:39" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199111.nc
+		:history = "model started at: 06/01/2012   09:47" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199112.nc
+		:history = "model started at: 09/01/2012   09:21" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199201.nc
+		:history = "model started at: 10/01/2012   09:37" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199202.nc
+		:history = "model started at: 10/01/2012   21:47" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199203.nc
+		:history = "model started at: 12/01/2012   09:48" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199204.nc
+		:history = "model started at: 13/01/2012   00:47" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199205.nc
+		:history = "model started at: 13/01/2012   12:05" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199206.nc
+		:history = "model started at: 16/01/2012   09:59" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199207.nc
+		:history = "model started at: 16/01/2012   23:31" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199208.nc
+		:history = "model started at: 17/01/2012   14:00" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199209.nc
+		:history = "model started at: 18/01/2012   09:50" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199210.nc
+		:history = "model started at: 19/01/2012   09:50" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199211.nc
+		:history = "model started at: 26/01/2012   11:34" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199212.nc
+		:history = "model started at: 27/01/2012   03:40" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199301.nc
+		:history = "model started at: 21/12/2012   15:07" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199302.nc
+		:history = "model started at: 24/12/2012   10:29" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199303.nc
+		:history = "model started at: 24/12/2012   22:52" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199304.nc
+		:history = "model started at: 25/12/2012   15:14" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199305.nc
+		:history = "model started at: 26/12/2012   09:49" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199306.nc
+		:history = "model started at: 27/12/2012   06:42" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199307.nc
+		:history = "model started at: 27/12/2012   23:49" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199308.nc
+		:history = "model started at: 28/12/2012   18:38" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199309.nc
+		:history = "model started at: 29/12/2012   12:27" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199310.nc
+		:history = "model started at: 30/12/2012   04:07" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199311.nc
+		:history = "model started at: 31/12/2012   01:12" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199312.nc
+		:history = "model started at: 31/12/2012   17:14" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199401.nc
+		:history = "model started at: 01/01/2013   15:55" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199402.nc
+		:history = "model started at: 02/01/2013   04:50" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199403.nc
+		:history = "model started at: 02/01/2013   17:37" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199404.nc
+		:history = "model started at: 03/01/2013   06:51" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199405.nc
+		:history = "model started at: 03/01/2013   18:24" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199406.nc
+		:history = "model started at: 04/01/2013   10:20" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199407.nc
+		:history = "model started at: 05/01/2013   00:55" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199408.nc
+		:history = "model started at: 05/01/2013   15:27" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199409.nc
+		:history = "model started at: 06/01/2013   04:48" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199410.nc
+		:history = "model started at: 06/01/2013   17:44" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199411.nc
+		:history = "model started at: 07/01/2013   11:32" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199412.nc
+		:history = "model started at: 08/01/2013   01:54" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199501.nc
+		:history = "model started at: 08/01/2013   11:22" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199502.nc
+		:history = "model started at: 08/01/2013   23:50" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199503.nc
+		:history = "model started at: 09/01/2013   12:12" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199504.nc
+		:history = "model started at: 10/01/2013   02:46" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199505.nc
+		:history = "model started at: 10/01/2013   19:32" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199506.nc
+		:history = "model started at: 11/01/2013   11:58" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199507.nc
+		:history = "model started at: 12/01/2013   07:46" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199508.nc
+		:history = "model started at: 13/01/2013   00:27" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199509.nc
+		:history = "model started at: 13/01/2013   19:58" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199510.nc
+		:history = "model started at: 14/01/2013   09:13" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199511.nc
+		:history = "model started at: 14/01/2013   21:20" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199512.nc
+		:history = "model started at: 15/01/2013   13:28" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199601.nc
+		:history = "model started at: 17/01/2013   09:59" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199602.nc
+		:history = "model started at: 17/01/2013   20:41" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199603.nc
+		:history = "model started at: 18/01/2013   10:23" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199604.nc
+		:history = "model started at: 18/01/2013   23:16" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199605.nc
+		:history = "model started at: 19/01/2013   14:33" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199606.nc
+		:history = "model started at: 20/01/2013   05:24" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199607.nc
+		:history = "model started at: 20/01/2013   19:25" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199608.nc
+		:history = "model started at: 21/01/2013   08:10" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199609.nc
+		:history = "model started at: 22/01/2013   04:05" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199610.nc
+		:history = "model started at: 22/01/2013   18:06" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199611.nc
+		:history = "model started at: 23/01/2013   08:42" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199612.nc
+		:history = "model started at: 23/01/2013   20:50" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199701.nc
+		:history = "model started at: 24/01/2013   09:15" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199702.nc
+		:history = "model started at: 25/01/2013   10:43" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199703.nc
+		:history = "model started at: 26/01/2013   03:03" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199704.nc
+		:history = "model started at: 26/01/2013   21:18" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199705.nc
+		:history = "model started at: 27/01/2013   16:24" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199706.nc
+		:history = "model started at: 28/01/2013   11:58" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199707.nc
+		:history = "model started at: 29/01/2013   05:05" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199708.nc
+		:history = "model started at: 29/01/2013   18:55" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199709.nc
+		:history = "model started at: 30/01/2013   15:02" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199710.nc
+		:history = "model started at: 01/02/2013   09:27" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199711.nc
+		:history = "model started at: 02/02/2013   00:58" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199712.nc
+		:history = "model started at: 02/02/2013   10:54" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199801.nc
+		:history = "model started at: 12/02/2013   10:13" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199802.nc
+		:history = "model started at: 04/03/2013   11:47" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199803.nc
+		:history = "model started at: 13/02/2013   12:32" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199804.nc
+		:history = "model started at: 14/02/2013   04:47" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199805.nc
+		:history = "model started at: 14/02/2013   21:50" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199806.nc
+		:history = "model started at: 15/02/2013   13:44" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199807.nc
+		:history = "model started at: 16/02/2013   04:49" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199808.nc
+		:history = "model started at: 16/02/2013   17:40" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199809.nc
+		:history = "model started at: 17/02/2013   10:52" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199810.nc
+		:history = "model started at: 17/02/2013   20:45" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199811.nc
+		:history = "model started at: 18/02/2013   13:00" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199812.nc
+		:history = "model started at: 20/02/2013   09:18" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199901.nc
+		:history = "model started at: 21/02/2013   09:18" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199902.nc
+		:history = "model started at: 21/02/2013   23:50" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199903.nc
+		:history = "model started at: 22/02/2013   17:11" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199904.nc
+		:history = "model started at: 23/02/2013   11:11" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199905.nc
+		:history = "model started at: 24/02/2013   06:34" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199906.nc
+		:history = "model started at: 24/02/2013   20:38" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199907.nc
+		:history = "model started at: 25/02/2013   15:28" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199908.nc
+		:history = "model started at: 26/02/2013   07:03" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199909.nc
+		:history = "model started at: 27/02/2013   00:20" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199910.nc
+		:history = "model started at: 27/02/2013   12:03" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199911.nc
+		:history = "model started at: 28/02/2013   04:22" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_199912.nc
+		:history = "model started at: 28/02/2013   18:57" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200001.nc
+		:history = "model started at: 01/03/2013   09:38" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200002.nc
+		:history = "model started at: 01/03/2013   18:38" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200003.nc
+		:history = "model started at: 02/03/2013   07:26" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200004.nc
+		:history = "model started at: 02/03/2013   22:37" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200005.nc
+		:history = "model started at: 03/03/2013   14:35" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200006.nc
+		:history = "model started at: 04/03/2013   05:58" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200007.nc
+		:history = "model started at: 04/03/2013   21:37" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200008.nc
+		:history = "model started at: 05/03/2013   19:05" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200009.nc
+		:history = "model started at: 06/03/2013   13:04" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200010.nc
+		:history = "model started at: 07/03/2013   03:25" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200011.nc
+		:history = "model started at: 07/03/2013   17:23" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200012.nc
+		:history = "model started at: 08/03/2013   03:48" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200101.nc
+		:history = "model started at: 08/03/2013   12:29" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200102.nc
+		:history = "model started at: 09/03/2013   02:02" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200103.nc
+		:history = "model started at: 09/03/2013   18:32" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200104.nc
+		:history = "model started at: 10/03/2013   12:18" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200105.nc
+		:history = "model started at: 11/03/2013   04:37" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200106.nc
+		:history = "model started at: 11/03/2013   18:08" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200107.nc
+		:history = "model started at: 12/03/2013   06:20" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200108.nc
+		:history = "model started at: 13/03/2013   01:17" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200109.nc
+		:history = "model started at: 13/03/2013   21:47" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200110.nc
+		:history = "model started at: 14/03/2013   17:06" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200111.nc
+		:history = "model started at: 15/03/2013   12:41" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200112.nc
+		:history = "model started at: 16/03/2013   04:35" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200201.nc
+		:history = "model started at: 17/03/2013   21:37" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200202.nc
+		:history = "model started at: 18/03/2013   12:38" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200203.nc
+		:history = "model started at: 19/03/2013   05:40" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200204.nc
+		:history = "model started at: 19/03/2013   22:57" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200205.nc
+		:history = "model started at: 20/03/2013   14:31" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200206.nc
+		:history = "model started at: 21/03/2013   04:19" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200207.nc
+		:history = "model started at: 21/03/2013   19:01" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200208.nc
+		:history = "model started at: 22/03/2013   11:26" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200209.nc
+		:history = "model started at: 23/03/2013   06:01" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200210.nc
+		:history = "model started at: 23/03/2013   23:34" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200211.nc
+		:history = "model started at: 24/03/2013   19:32" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200212.nc
+		:history = "model started at: 25/03/2013   10:20" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200301.nc
+		:history = "model started at: 26/03/2013   09:21" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200302.nc
+		:history = "model started at: 26/03/2013   23:14" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200303.nc
+		:history = "model started at: 27/03/2013   13:08" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200304.nc
+		:history = "model started at: 28/03/2013   07:35" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200305.nc
+		:history = "model started at: 30/03/2013   04:12" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200306.nc
+		:history = "model started at: 30/03/2013   19:45" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200307.nc
+		:history = "model started at: 31/03/2013   12:39" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200308.nc
+		:history = "model started at: 01/04/2013   05:45" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200309.nc
+		:history = "model started at: 01/04/2013   23:56" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200310.nc
+		:history = "model started at: 02/04/2013   18:59" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200311.nc
+		:history = "model started at: 03/04/2013   13:49" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200312.nc
+		:history = "model started at: 04/04/2013   06:39" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200401.nc
+		:history = "model started at: 21/04/2013   18:53" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200402.nc
+		:history = "model started at: 05/04/2013   23:13" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200403.nc
+		:history = "model started at: 06/04/2013   14:41" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200404.nc
+		:history = "model started at: 07/04/2013   07:03" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200405.nc
+		:history = "model started at: 11/04/2013   04:56" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200406.nc
+		:history = "model started at: 15/04/2013   20:29" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200407.nc
+		:history = "model started at: 16/04/2013   13:03" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200408.nc
+		:history = "model started at: 17/04/2013   08:41" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200409.nc
+		:history = "model started at: 18/04/2013   02:12" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200410.nc
+		:history = "model started at: 18/04/2013   19:42" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200411.nc
+		:history = "model started at: 21/04/2013   18:53" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200412.nc
+		:history = "model started at: 22/04/2013   13:25" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200501.nc
+		:history = "model started at: 23/04/2013   10:20" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200502.nc
+		:history = "model started at: 24/04/2013   00:32" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200503.nc
+		:history = "model started at: 24/04/2013   15:46" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200504.nc
+		:history = "model started at: 25/04/2013   08:59" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200505.nc
+		:history = "model started at: 26/04/2013   02:18" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200506.nc
+		:history = "model started at: 26/04/2013   22:49" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200507.nc
+		:history = "model started at: 27/04/2013   21:20" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200508.nc
+		:history = "model started at: 28/04/2013   12:58" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200509.nc
+		:history = "model started at: 29/04/2013   08:24" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200510.nc
+		:history = "model started at: 30/04/2013   01:31" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200511.nc
+		:history = "model started at: 30/04/2013   19:41" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200512.nc
+		:history = "model started at: 01/05/2013   18:45" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200601.nc
+		:history = "model started at: 02/05/2013   09:29" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200602.nc
+		:history = "model started at: 02/05/2013   23:44" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200603.nc
+		:history = "model started at: 03/05/2013   15:54" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200604.nc
+		:history = "model started at: 04/05/2013   10:26" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200605.nc
+		:history = "model started at: 05/05/2013   04:13" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200606.nc
+		:history = "model started at: 05/05/2013   23:03" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200607.nc
+		:history = "model started at: 06/05/2013   19:02" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200608.nc
+		:history = "model started at: 07/05/2013   12:03" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200609.nc
+		:history = "model started at: 08/05/2013   05:50" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200610.nc
+		:history = "model started at: 08/05/2013   23:43" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200611.nc
+		:history = "model started at: 09/05/2013   18:44" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200612.nc
+		:history = "model started at: 10/05/2013   10:25" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200701.nc
+		:history = "model started at: 12/05/2013   17:17" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200702.nc
+		:history = "model started at: 13/05/2013   11:41" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200703.nc
+		:history = "model started at: 14/05/2013   08:53" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200704.nc
+		:history = "model started at: 15/05/2013   08:55" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200705.nc
+		:history = "model started at: 16/05/2013   04:57" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200706.nc
+		:history = "model started at: 17/05/2013   01:00" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200707.nc
+		:history = "model started at: 17/05/2013   20:17" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200708.nc
+		:history = "model started at: 18/05/2013   17:51" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200709.nc
+		:history = "model started at: 19/05/2013   14:34" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200710.nc
+		:history = "model started at: 20/05/2013   08:07" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200711.nc
+		:history = "model started at: 21/05/2013   05:35" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200712.nc
+		:history = "model started at: 22/05/2013   00:28" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200801.nc
+		:history = "model started at: 16/08/2013   17:44" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200802.nc
+		:history = "model started at: 17/08/2013   12:28" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200803.nc
+			"model started at: 19/08/2013   09:21" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200804.nc
+		:history = "model started at: 21/08/2013   09:06" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200805.nc
+		:history = "model started at: 22/08/2013   08:02" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200806.nc
+		:history = "model started at: 23/08/2013   07:49" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200807.nc
+		:history = "model started at: 24/08/2013   09:32" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200808.nc
+		:history = "model started at: 25/08/2013   10:44" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200809.nc
+		:history = "model started at: 26/08/2013   22:52" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200810.nc
+		:history = "model started at: 05/09/2013   14:31" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200811.nc
+		:history = "model started at: 28/08/2013   07:56" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200812.nc
+		:history = "model started at: 29/08/2013   09:17" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200901.nc
+		:history = "model started at: 30/08/2013   09:06" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200902.nc
+		:history = "model started at: 03/09/2013   18:01" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200903.nc
+		:history = "model started at: 04/09/2013   10:42" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200904.nc
+		:history = "model started at: 05/09/2013   04:14" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200905.nc
+		:history = "model started at: 05/09/2013   18:57" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200906.nc
+		:history = "model started at: 06/09/2013   10:07" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200907.nc
+		:history = "model started at: 07/09/2013   01:14" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200908.nc
+		:history = "model started at: 07/09/2013   18:02" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200909.nc
+		:history = "model started at: 08/09/2013   10:11" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200910.nc
+		:history = "model started at: 09/09/2013   01:25" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200911.nc
+		:history = "model started at: 09/09/2013   16:54" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_200912.nc
+		:history = "model started at: 10/09/2013   07:00" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201001.nc
+		:history = "model started at: 20/09/2013   09:08" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201002.nc
+		:history = "model started at: 20/09/2013   23:58" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201003.nc
+		:history = "model started at: 21/09/2013   16:42" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201004.nc
+		:history = "model started at: 22/09/2013   10:01" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201005.nc
+		:history = "model started at: 23/09/2013   04:04" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201006.nc
+		:history = "model started at: 24/09/2013   00:33" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201007.nc
+		:history = "model started at: 25/09/2013   09:18" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201008.nc
+		:history = "model started at: 27/09/2013   10:05" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201009.nc
+		:history = "model started at: 28/09/2013   12:55" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201010.nc
+		:history = "model started at: 29/09/2013   12:41" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201011.nc
+		:history = "model started at: 30/09/2013   10:20" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201012.nc
+		:history = "model started at: 01/10/2013   06:11" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201101.nc
+		:history = "model started at: 02/10/2013   09:15" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201102.nc
+			"model started at: 03/10/2013   02:25" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201103.nc
+		:history = "model started at: 04/10/2013   15:45" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201104.nc
+			"model started at: 05/10/2013   00:42" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201105.nc
+		:history = "model started at: 07/10/2013   13:37" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201106.nc
+		:history = "model started at: 07/10/2013   22:27" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201107.nc
+		:history = "model started at: 21/05/2015   20:42" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201108.nc
+		:history = "model started at: 22/05/2015   07:52" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201109.nc
+		:history = "model started at: 22/05/2015   19:04" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201110.nc
+		:history = "model started at: 09/10/2013   11:33" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201111.nc
+		:history = "model started at: 09/10/2013   20:53" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201112.nc
+		:history = "model started at: 10/10/2013   09:00" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201201.nc
+		:history = "model started at: 10/10/2013   18:19" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201202.nc
+		:history = "model started at: 12/10/2013   03:41" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201203.nc
+		:history = "model started at: 13/10/2013   19:46" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201204.nc
+		:history = "model started at: 14/10/2013   15:22" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201205.nc
+		:history = "model started at: 15/10/2013   09:46" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201206.nc
+		:history = "model started at: 16/10/2013   03:15" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201207.nc
+		:history = "model started at: 17/10/2013   09:03" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201208.nc
+		:history = "model started at: 18/10/2013   04:31" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201209.nc
+		:history = "model started at: 18/10/2013   23:21" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201210.nc
+		:history = "model started at: 20/10/2013   13:28" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201211.nc
+		:history = "model started at: 21/10/2013   09:10" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201212.nc
+		:history = "model started at: 21/10/2013   21:29" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201301.nc
+		:history = "model started at: 15/11/2013   17:04" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201302.nc
+		:history = "model started at: 18/11/2013   11:59" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201303.nc
+		:history = "model started at: 20/11/2013   11:35" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201304.nc
+		:history = "model started at: 20/11/2013   21:23" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201305.nc
+		:history = "model started at: 21/11/2013   11:31" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201306.nc
+		:history = "model started at: 04/04/2014   15:33" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201307.nc
+		:history = "model started at: 05/04/2014   00:09" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201308.nc
+		:history = "model started at: 25/04/2014   09:42" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201309.nc
+		:history = "model started at: 25/04/2014   18:40" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201310.nc
+		:history = "model started at: 26/04/2014   03:13" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201311.nc
+		:history = "model started at: 06/05/2014   17:41" ;
+/http/www/CODFISH/Data/FVCOM/NECOFS/Archive/Seaplan_33_Hindcast_v1/gom3_201312.nc
+		:history = "model started at: 07/05/2014   02:17" ;
